@@ -1,0 +1,144 @@
+
+.genel{
+    width: 1520px;
+    height: 700px;
+    background-color:#F8F8FF;
+}
+
+
+.container{ 
+  display: flex;
+    max-width: 700px;
+    max-height: 700px;
+    width: 700px;
+    height: 710px;
+    background-color: #F8F8FF;
+    margin-left: 400px;
+}
+
+.laptop{
+    width: 700px;
+    height: 180px;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 2%;
+}
+
+.laptopimg{
+    width: 180px;
+    height: 180px;
+    border-radius: 2%;
+    background-color: lightblue;
+}
+
+.product{
+    float: right;
+    margin-right: 395px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 5;
+    margin-top: 10px;
+}
+
+.skill{
+    width: 400px;
+    height: 60px;
+    float: left;
+    margin-top: -150px;
+    margin-left: 200px;
+}
+
+.yazı1{
+    width: 450px;
+    height: 40px;
+    float: right;
+    margin-top:-85px; 
+    margin-right: 50px;
+    font-size: 14px;
+}
+
+.avatar1{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-top: -40px;
+    margin-right: 460px;
+    
+}
+
+.link1{
+    float: right;
+    margin-top: -32px;
+    margin-right: 360px;
+    font-size: 14px;
+    font-weight:5;
+    text-decoration: none;
+}
+
+.readmore{
+    float: right;
+    margin-top: -34px;
+    margin-right: 20px;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.days3{
+    float: right;
+    margin-top: -175px;
+    margin-right: 20px;
+}
+
+.avatar{
+    width: 700px;
+    height: 180px;
+    background-color:white;
+    margin-top: 260px;
+    margin-left: -700px;
+    border-radius: 2%;
+}
+
+.medıa{
+    float: right;
+    margin-right: 455px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 5;
+    margin-top: 10px;
+}
+
+.avatar2{
+    width: 700px;
+    height: 180px;
+    background-color: white;
+    margin-top: 470px;
+    margin-left: -700px;
+    border-radius: 2%;
+}
+
+.business{
+    float: right;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 5;
+    margin-top: 10px;
+    margin-right: 430px;
+}
+
+.link2{
+    float: right;
+    margin-top: -32px;
+    margin-right: 365px;
+    font-size: 14px;
+    font-weight:5;
+    text-decoration: none;
+}
+
+.link3{
+    float: right;
+    margin-top: -32px;
+    margin-right: 380px;
+    font-size: 14px;
+    font-weight:5;
+    text-decoration: none;
+}
